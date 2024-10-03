@@ -1,5 +1,4 @@
-// const baseURL="https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies";
-// const baseURL="https://api.exchangerate.host/latest";
+
 const dropdownS= document.querySelectorAll(".dropdown select");
 const button=document.querySelector("button");
 const fromCurr=document.querySelector(".from select");
@@ -65,14 +64,6 @@ const fromCurrency = fromCurr.value.toUpperCase();
 
 
 
-// // console.log(amtV) 
-// // console.log(fromCurr.value, toCurr.value);
-// const URL= `${baseURL}/${fromCurr.value.toLowerCase()}/${toCurr.value.toLowerCase()}.json`;
-// // const URL = `${baseURL}?base=${encodeURIComponent(fromCurrency)}&symbols=${encodeURIComponent(toCurrency)}`;
-
-// let responce = await fetch(URL);
-// let data=await responce.json();
-// console.log(data);
 
 // // const URL = `${baseURL}/${toCurr.value.toLowerCase()}.json`;
 // //    let response = await fetch(URL);
