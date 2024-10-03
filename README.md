@@ -22,6 +22,6 @@ Input the amount you wish to convert from USD in the designated input field.
 3. Select Target Currency:
 Choose the currency you want to convert to from the dropdown menu. A wide range of international currencies are available.
 4. View Conversion:
-Click the "Convert" button to see the converted amount based on the latest exchange rates.
+Click the "get exchange rate" button to see the converted amount.
 5. Review Results:
 The converted amount will be displayed clearly, allowing you to easily understand the exchange.
